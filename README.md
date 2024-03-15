@@ -1,6 +1,5 @@
 <h2>👋 Hi, I’m @zeilmannt </h2>
 <!-- 👀 I’m interested in -->
-- 🌱 I’m currently learning Python
 
 
 
