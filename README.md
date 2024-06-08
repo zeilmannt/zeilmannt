@@ -1,11 +1,8 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20201
-Fork on GitHub6132
+
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A computer science student</h3>
 
-- 🔭 I’m currently working on **BioSim**
+- 🔭 I’m currently working on **BioSim** (BA-Prakikum)
 
 - 🌱 I’m currently learning **C++**
 
