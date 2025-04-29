@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A computer science student</h3>
 
-- 🔭 I’m currently working as a fullstack development for startup
+- 🔭 I’m currently working as a fullstack developer
 
 - 🌱 I’m currently improving my knowledge in **Python** and **JavaScript**
 
